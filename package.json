@@ -4,13 +4,14 @@
   "description": "static website with parcel",
   "main": "index.html",
   "scripts": {
-  	"start": "parcel index.html",
+    "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alexandra haynes",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.0.0",
-    "parcel": "^1.9.7"
+    "parcel": "^1.9.7",
+    "postcss": "^7.0.0"
   }
 }
