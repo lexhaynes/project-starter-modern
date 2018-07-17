@@ -1,0 +1,15 @@
+{
+  "browser": true,
+  "globals": {
+    "$": false,
+    "TweenMax": false,
+    "TimelineMax": false,
+    "console": false
+  },
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "multistr": true
+}
+
+/* if this file is not being read, it's because the JSON is invalid */

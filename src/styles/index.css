@@ -1,0 +1,11 @@
+/* Import another CSS file */
+@import './test.css';
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+  background:#ccc;
+}

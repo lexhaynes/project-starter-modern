@@ -1,0 +1,12 @@
+body {
+	border:dotted red 1px;
+}/* Import another CSS file */
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+  background:#ccc;
+}
