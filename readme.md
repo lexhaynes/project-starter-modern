@@ -4,5 +4,6 @@
 - postcss included to add vendor prefixes
 
 # To Compile Assets
-
-$ npm start
+```
+npm start
+```
